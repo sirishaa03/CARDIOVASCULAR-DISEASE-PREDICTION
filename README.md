@@ -1,4 +1,4 @@
-# Cardiovascular Disease Prediction using Apache Spark and GCP
+# Cardiovascular Disease Prediction 
 
 This repository contains code and resources for predicting cardiovascular disease using advanced analytics techniques on extensive healthcare data. We utilized Google Cloud Platform (GCP) services such as BigQuery for data ingestion and real-time querying, and Apache Spark for distributed processing. The random forest (RF) algorithm was employed for classification, achieving an accuracy of 84.56%.
 
